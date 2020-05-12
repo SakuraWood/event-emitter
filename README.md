@@ -1,6 +1,6 @@
 # event emitter
 
-> A event bus for Javascript , support sticky event
+> A event bus for Javascript , support sticky event. gzip only 643B
 
 ## Install
 
